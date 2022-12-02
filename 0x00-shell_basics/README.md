@@ -1,1 +1,1 @@
-returns to home directory
+prints contents in long format
