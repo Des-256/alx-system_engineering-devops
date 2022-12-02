@@ -1,1 +1,1 @@
-prints working directory
+display content list of directory
