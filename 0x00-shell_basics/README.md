@@ -1,1 +1,1 @@
-display content list of directory
+returns to home directory
