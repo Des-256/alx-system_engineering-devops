@@ -1,1 +1,1 @@
-prints contents in long format
+prints hidden files and more in long format
