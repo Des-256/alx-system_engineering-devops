@@ -1,1 +1,1 @@
-prints hidden files and more in long format
+prints new directory
